@@ -1,0 +1,424 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Vapi",
+      "type": "city",
+      "district": "Valsad",
+      "population": 201084,
+      "nearby_city": "Surat",
+      "taluka": "Pardi",
+      "area_sq_km": 55.6,
+      "description": "Vapi is a major industrial city in southern Gujarat, known for its large GIDC industrial estate. It lies near the Maharashtra border and serves as a key commercial hub in Valsad district.",
+      "key_facts": ["Major industrial hub with GIDC estate", "Located near Maharashtra border", "Railway junction on Western Railway", "Known for chemical and textile industries"],
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temperature_c": 31,
+        "humidity_percent": 72,
+        "wind_speed_kmh": 14,
+        "rain_chance_percent": 20,
+        "feels_like_c": 34,
+        "icon": "⛅"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Valsad",
+      "type": "city",
+      "district": "Valsad",
+      "population": 157754,
+      "nearby_city": "Surat",
+      "taluka": "Valsad",
+      "area_sq_km": 48.3,
+      "description": "Valsad is the district headquarters of Valsad district in southern Gujarat. It is known for its mango orchards, chikoo (sapodilla) farms, and beautiful coastline along the Arabian Sea.",
+      "key_facts": ["District headquarters of Valsad", "Famous for Hapus mangoes and chikoo", "Coastal city on Arabian Sea", "Navsari–Mumbai rail route passes through"],
+      "weather": {
+        "condition": "Sunny",
+        "temperature_c": 33,
+        "humidity_percent": 65,
+        "wind_speed_kmh": 12,
+        "rain_chance_percent": 10,
+        "feels_like_c": 36,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Udvada",
+      "type": "village",
+      "district": "Valsad",
+      "population": 4200,
+      "nearby_city": "Vapi",
+      "taluka": "Pardi",
+      "area_sq_km": 8.2,
+      "description": "Udvada is a small but historically significant village in Valsad district. It is home to the Iranshah Atash Behram, the oldest and most sacred fire temple of the Zoroastrian (Parsi) community in India.",
+      "key_facts": ["Home to Iranshah Atash Behram fire temple", "Most sacred Parsi pilgrimage site in India", "Coastal village near Arabian Sea", "Historic cultural heritage site"],
+      "weather": {
+        "condition": "Cloudy",
+        "temperature_c": 30,
+        "humidity_percent": 78,
+        "wind_speed_kmh": 18,
+        "rain_chance_percent": 35,
+        "feels_like_c": 33,
+        "icon": "☁️"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bulsar",
+      "type": "village",
+      "district": "Valsad",
+      "population": 3100,
+      "nearby_city": "Valsad",
+      "taluka": "Valsad",
+      "area_sq_km": 5.4,
+      "description": "Bulsar is a village in Valsad district, historically the older name for the Valsad region. It lies in a fertile coastal belt known for fruit cultivation.",
+      "key_facts": ["Older historical name of Valsad region", "Fertile agricultural belt", "Known for fruit farming"],
+      "weather": {
+        "condition": "Sunny",
+        "temperature_c": 32,
+        "humidity_percent": 67,
+        "wind_speed_kmh": 11,
+        "rain_chance_percent": 12,
+        "feels_like_c": 35,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Surat",
+      "type": "city",
+      "district": "Surat",
+      "population": 6081322,
+      "nearby_city": "Bharuch",
+      "taluka": "Surat",
+      "area_sq_km": 326.5,
+      "description": "Surat is the second-largest city in Gujarat and one of the fastest-growing cities in India. It is globally renowned as the Diamond City, processing over 90% of the world's rough diamonds. The textile industry is also a major economic driver.",
+      "key_facts": ["Processes 90%+ of world's rough diamonds", "Major textile and embroidery hub", "One of India's fastest growing cities", "Located on Tapi river estuary"],
+      "weather": {
+        "condition": "Hot and Humid",
+        "temperature_c": 35,
+        "humidity_percent": 70,
+        "wind_speed_kmh": 16,
+        "rain_chance_percent": 15,
+        "feels_like_c": 40,
+        "icon": "🌤️"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Bardoli",
+      "type": "city",
+      "district": "Surat",
+      "population": 81540,
+      "nearby_city": "Surat",
+      "taluka": "Bardoli",
+      "area_sq_km": 22.0,
+      "description": "Bardoli is a historic town in Surat district, famous for the Bardoli Satyagraha of 1928 led by Sardar Vallabhbhai Patel. It is considered a significant site in India's freedom movement.",
+      "key_facts": ["Site of famous Bardoli Satyagraha (1928)", "Sardar Patel led the peasant movement here", "Cooperative sugar industry hub", "Historical freedom movement landmark"],
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temperature_c": 33,
+        "humidity_percent": 68,
+        "wind_speed_kmh": 13,
+        "rain_chance_percent": 22,
+        "feels_like_c": 37,
+        "icon": "⛅"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Navsari",
+      "type": "city",
+      "district": "Navsari",
+      "population": 168570,
+      "nearby_city": "Surat",
+      "taluka": "Navsari",
+      "area_sq_km": 38.0,
+      "description": "Navsari is the district headquarters of Navsari district and an important city in southern Gujarat. It is historically significant as the ancestral home of the Tata family and has a large Parsi community.",
+      "key_facts": ["Ancestral home of the Tata family", "Significant Parsi community and heritage", "District headquarters of Navsari", "Agricultural market for sugarcane and mangoes"],
+      "weather": {
+        "condition": "Sunny",
+        "temperature_c": 34,
+        "humidity_percent": 63,
+        "wind_speed_kmh": 10,
+        "rain_chance_percent": 8,
+        "feels_like_c": 38,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Gandevi",
+      "type": "town",
+      "district": "Navsari",
+      "population": 29400,
+      "nearby_city": "Navsari",
+      "taluka": "Gandevi",
+      "area_sq_km": 15.7,
+      "description": "Gandevi is a town in Navsari district known for its agricultural produce, especially chikoo (sapodilla) and mango cultivation. It has a thriving local market economy.",
+      "key_facts": ["Chikoo and mango cultivation area", "Agricultural market town", "Part of fertile Navsari district"],
+      "weather": {
+        "condition": "Clear",
+        "temperature_c": 33,
+        "humidity_percent": 61,
+        "wind_speed_kmh": 9,
+        "rain_chance_percent": 7,
+        "feels_like_c": 36,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bharuch",
+      "type": "city",
+      "district": "Bharuch",
+      "population": 224500,
+      "nearby_city": "Surat",
+      "taluka": "Bharuch",
+      "area_sq_km": 65.0,
+      "description": "Bharuch (also known as Broach) is one of Gujarat's oldest cities, situated on the banks of the Narmada river. It has a major petrochemical industrial complex (GIDC Ankleshwar nearby) and serves as an important river port.",
+      "key_facts": ["One of Gujarat's oldest cities", "Located on Narmada river banks", "Ankleshwar GIDC — major chemical industrial area", "Historical Broach mentioned in ancient texts"],
+      "weather": {
+        "condition": "Sunny",
+        "temperature_c": 36,
+        "humidity_percent": 58,
+        "wind_speed_kmh": 15,
+        "rain_chance_percent": 5,
+        "feels_like_c": 40,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ankleshwar",
+      "type": "city",
+      "district": "Bharuch",
+      "population": 111340,
+      "nearby_city": "Bharuch",
+      "taluka": "Ankleshwar",
+      "area_sq_km": 30.2,
+      "description": "Ankleshwar is a major industrial city in Bharuch district, home to one of India's largest chemical industrial estates (GIDC). It is a significant contributor to Gujarat's industrial output.",
+      "key_facts": ["One of India's largest GIDC chemical estates", "Major pharma and chemical manufacturing hub", "Significant employer in Bharuch district"],
+      "weather": {
+        "condition": "Hot",
+        "temperature_c": 38,
+        "humidity_percent": 52,
+        "wind_speed_kmh": 12,
+        "rain_chance_percent": 5,
+        "feels_like_c": 42,
+        "icon": "🌡️"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Ahmedabad",
+      "type": "city",
+      "district": "Ahmedabad",
+      "population": 5570585,
+      "nearby_city": "Gandhinagar",
+      "taluka": "Ahmedabad",
+      "area_sq_km": 464.0,
+      "description": "Ahmedabad is the largest city of Gujarat and the financial and commercial capital of the state. It is a UNESCO World Heritage City and home to landmark institutions including IIM Ahmedabad and the Sabarmati Ashram.",
+      "key_facts": ["Largest city in Gujarat", "UNESCO World Heritage City", "Home to IIM Ahmedabad and Sabarmati Ashram", "Major textile, pharma and IT hub"],
+      "weather": {
+        "condition": "Sunny",
+        "temperature_c": 38,
+        "humidity_percent": 40,
+        "wind_speed_kmh": 18,
+        "rain_chance_percent": 3,
+        "feels_like_c": 42,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Gandhinagar",
+      "type": "city",
+      "district": "Gandhinagar",
+      "population": 292167,
+      "nearby_city": "Ahmedabad",
+      "taluka": "Gandhinagar",
+      "area_sq_km": 66.0,
+      "description": "Gandhinagar is the capital city of Gujarat, designed as a planned city on the banks of the Sabarmati river. It houses the state government offices, Gujarat High Court, and the Akshardham temple complex.",
+      "key_facts": ["State capital of Gujarat", "Planned city on Sabarmati river", "Houses Akshardham temple complex", "GIFT City (Global Financial Technology hub) nearby"],
+      "weather": {
+        "condition": "Clear",
+        "temperature_c": 37,
+        "humidity_percent": 38,
+        "wind_speed_kmh": 16,
+        "rain_chance_percent": 4,
+        "feels_like_c": 41,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Vadodara",
+      "type": "city",
+      "district": "Vadodara",
+      "population": 1670806,
+      "nearby_city": "Ahmedabad",
+      "taluka": "Vadodara",
+      "area_sq_km": 148.0,
+      "description": "Vadodara (Baroda) is the third-largest city in Gujarat, known as the cultural capital of the state. It is home to the Maharaja Sayajirao University and Laxmi Vilas Palace. Major industries include chemicals, petrochemicals, and defense.",
+      "key_facts": ["Cultural capital of Gujarat", "Home to Maharaja Sayajirao University", "Laxmi Vilas Palace — largest private residence at time of construction", "Defense and chemical industry hub"],
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temperature_c": 36,
+        "humidity_percent": 48,
+        "wind_speed_kmh": 14,
+        "rain_chance_percent": 12,
+        "feels_like_c": 40,
+        "icon": "⛅"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Halol",
+      "type": "town",
+      "district": "Panchmahal",
+      "population": 53260,
+      "nearby_city": "Vadodara",
+      "taluka": "Halol",
+      "area_sq_km": 18.5,
+      "description": "Halol is a town in Panchmahal district known for its automobile manufacturing industry. Suzuki Motorcycle India has a plant near Halol. General Motors India previously operated a plant here.",
+      "key_facts": ["Automobile industry hub in Gujarat", "Suzuki and General Motors plant location", "Part of industrial corridor"],
+      "weather": {
+        "condition": "Sunny",
+        "temperature_c": 37,
+        "humidity_percent": 45,
+        "wind_speed_kmh": 13,
+        "rain_chance_percent": 6,
+        "feels_like_c": 41,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Rajkot",
+      "type": "city",
+      "district": "Rajkot",
+      "population": 1390933,
+      "nearby_city": "Jamnagar",
+      "taluka": "Rajkot",
+      "area_sq_km": 170.0,
+      "description": "Rajkot is the fourth-largest city in Gujarat and a major commercial and industrial centre. It was the childhood home of Mahatma Gandhi. Known for its engineering industry, watches, and gold jewelry.",
+      "key_facts": ["Childhood home of Mahatma Gandhi", "Major engineering and auto parts hub", "One of India's fastest growing cities", "Kaba Gandhi No Delo — Gandhi's ancestral home"],
+      "weather": {
+        "condition": "Hot and Dry",
+        "temperature_c": 40,
+        "humidity_percent": 30,
+        "wind_speed_kmh": 20,
+        "rain_chance_percent": 2,
+        "feels_like_c": 44,
+        "icon": "🌡️"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Jamnagar",
+      "type": "city",
+      "district": "Jamnagar",
+      "population": 600943,
+      "nearby_city": "Rajkot",
+      "taluka": "Jamnagar",
+      "area_sq_km": 125.0,
+      "description": "Jamnagar is a city on the coast of Gujarat known for its brass and handicraft industries. It is home to Reliance Industries' Jamnagar Refinery, which is the world's largest oil refinery complex.",
+      "key_facts": ["Home to world's largest oil refinery (Reliance)", "Famous for brass parts and handicrafts", "Marine National Park nearby", "Historical heritage architecture"],
+      "weather": {
+        "condition": "Windy",
+        "temperature_c": 36,
+        "humidity_percent": 55,
+        "wind_speed_kmh": 28,
+        "rain_chance_percent": 8,
+        "feels_like_c": 39,
+        "icon": "🌬️"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Bhavnagar",
+      "type": "city",
+      "district": "Bhavnagar",
+      "population": 605882,
+      "nearby_city": "Ahmedabad",
+      "taluka": "Bhavnagar",
+      "area_sq_km": 105.0,
+      "description": "Bhavnagar is a coastal city and port in the Saurashtra region of Gujarat. It is known for ship breaking at Alang (world's largest ship breaking yard) and diamond cutting.",
+      "key_facts": ["Near Alang — world's largest ship breaking yard", "Diamond cutting industry", "Coastal port city in Saurashtra", "Blackbuck National Park nearby"],
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temperature_c": 34,
+        "humidity_percent": 60,
+        "wind_speed_kmh": 22,
+        "rain_chance_percent": 15,
+        "feels_like_c": 38,
+        "icon": "⛅"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Umbergaon",
+      "type": "town",
+      "district": "Valsad",
+      "population": 43210,
+      "nearby_city": "Vapi",
+      "taluka": "Umbergaon",
+      "area_sq_km": 12.0,
+      "description": "Umbergaon is a coastal town in Valsad district, located near the Dharampur hills. It is known for its scenic beaches, particularly Tithal beach, and is a popular weekend destination.",
+      "key_facts": ["Tithal beach — popular weekend destination", "Coastal town near Dharampur hills", "Film shooting location"],
+      "weather": {
+        "condition": "Breezy",
+        "temperature_c": 30,
+        "humidity_percent": 80,
+        "wind_speed_kmh": 22,
+        "rain_chance_percent": 30,
+        "feels_like_c": 33,
+        "icon": "🌊"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Pardi",
+      "type": "town",
+      "district": "Valsad",
+      "population": 38700,
+      "nearby_city": "Vapi",
+      "taluka": "Pardi",
+      "area_sq_km": 10.5,
+      "description": "Pardi is a town in Valsad district located near Vapi. It serves as a sub-district headquarters and has agricultural and small industrial activities.",
+      "key_facts": ["Taluka headquarters", "Agricultural area", "Close proximity to Vapi industrial zone"],
+      "weather": {
+        "condition": "Sunny",
+        "temperature_c": 31,
+        "humidity_percent": 70,
+        "wind_speed_kmh": 12,
+        "rain_chance_percent": 18,
+        "feels_like_c": 34,
+        "icon": "☀️"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Chikhli",
+      "type": "town",
+      "district": "Navsari",
+      "population": 31850,
+      "nearby_city": "Navsari",
+      "taluka": "Chikhli",
+      "area_sq_km": 11.2,
+      "description": "Chikhli is a town in Navsari district, an important agricultural centre. It is known for the production of chikoo (sapodilla) and mango. Has a well-known GIDC industrial estate.",
+      "key_facts": ["Major chikoo and mango market", "GIDC industrial estate", "Agricultural market hub"],
+      "weather": {
+        "condition": "Clear",
+        "temperature_c": 33,
+        "humidity_percent": 62,
+        "wind_speed_kmh": 10,
+        "rain_chance_percent": 9,
+        "feels_like_c": 36,
+        "icon": "☀️"
+      }
+    }
+  ]
+}
